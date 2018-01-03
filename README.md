@@ -9,11 +9,9 @@ Touch Bar customization using Better Touch Tool
 - Touching battery widget sleeps display
 - Minimalist icons from Icons8 http://icons8.com
 - Button to show/hide iTerm https://www.iterm2.com/
-- Fn key toggles between BTT and stock Touch Bar
+- Use Fn key to toggle between BTT and stock Touch Bar
 
-## Install
-See README for https://github.com/marekkaczkowski/Touch-Bar-iStats
-
+## Screenshots
 Main:
 <img src="Images/Main.png">
 
@@ -22,3 +20,11 @@ Hide:
 
 Stats:
 <img src="Images/Stats.png">
+
+
+## Install
+See README for https://github.com/marekkaczkowski/Touch-Bar-iStats
+
+Set the General Touchbar Settings as follows:
+<img src="Images/General%20Touch%20Bar%20Settings.png">
+
