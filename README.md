@@ -1,6 +1,6 @@
 # MangTouchBar
 
-Touch Bar customization using Better Touch Tool
+Clean Touch Bar customization using Better Touch Tool
 
 ## Features
 - "Hide" submenu minimizes distraction (e.g. when watching videos)
@@ -10,6 +10,7 @@ Touch Bar customization using Better Touch Tool
 - Minimalist icons from Icons8 http://icons8.com
 - Button to show/hide iTerm https://www.iterm2.com/
 - Use Fn key to toggle between BTT and stock Touch Bar
+
 
 ## Screenshots
 Main:
@@ -22,9 +23,17 @@ Stats:
 <img src="Images/Stats.png">
 
 
-## Install
-See README for https://github.com/marekkaczkowski/Touch-Bar-iStats
+## Installation
 
-Set the General Touchbar Settings as follows:
+1. Clone or download this repo
+2. Install BetterTouchTool
+2. Import MangTouch.bttpreset
+3. Enable the virtual escape key if necessary (Enabled / Visible on Touch Bar)
+
+<img src="Images/Esc.png">
+
+
+4. (Optional) For stats (cpu/gpu temperature, fan RPM) install [iStats ruby gem](https://github.com/Chris911/iStats) with `sudo gem install iStats`
+
+After you import the preset the General Touchbar Settings should be as follows:
 <img src="Images/General%20Touch%20Bar%20Settings.png">
-
